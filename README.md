@@ -30,3 +30,8 @@ The project file can be opened using Microsoft Power BI Desktop.
 
 ## 6. Author
 Data Analytics Portfolio Project
+
+## 7. Dashboard Preview
+
+![E-Commerce Sales Dashboard](Dashboard_Screenshot.png)
+
